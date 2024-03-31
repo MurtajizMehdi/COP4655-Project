@@ -5,7 +5,7 @@ Group project for COP 4655 Mobile Application Development
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# PetPix
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Original App Design Project - README Template
 
 ### Description
 
-[Provide a brief description of your app, its purpose, and functionality.]
+[A media-sharing social media app focused around pets. From dogs and cats, to monkeys and lizards. All sorts of furry and non-furry friends are welcome.]
 
 ### App Evaluation
 
