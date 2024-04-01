@@ -28,9 +28,9 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 
 **Required Must-have Stories**
 
-* [User can [create an account]]
-* [User can [sign into an account]]
-* [User can [dictate what their feed will look like by answering a few introductory questions when they first create an account]]
+* User can create an account
+* User can sign into an account
+* User can dictate what their feed will look like by answering a few introductory questions when they first create an account
 * ...
 
 **Optional Nice-to-have Stories**
@@ -40,10 +40,10 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 
 ### 2. Screen Archetypes
 
-- [ ] [**Screen Name, e.g., Login Screen**]
-* [Required User Feature: User can log in.]
-- [ ] [**Another Screen Name**]
-* [Associated required user story]
+- [ ] [**Login Screen**]
+* [Required User Feature: User can log in / create an account.]
+- [ ] [**Introductory Questions Screen**]
+* [Required User Feature: User can determine their timeline.]
 ...
 ...
 ...
@@ -53,18 +53,30 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 **Tab Navigation** (Tab to Screen)
 
 
-- [ ] [First Tab, e.g., Home Feed]
-- [ ] [Second Tab, e.g., Profile]
+- [ ] [Home Feed]
+- [ ] [Profile]
+- [ ] [Post/Create/Upload]
+- [ ] [Search & Explore]
 ...
 ...
 ...
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [**Screen Name**]
-  * Leads to [**Next Screen**]
-- [ ] [**Another Screen Name**]
-  * Leads to [**Another Screen**] 
+- [ ] [**Home Screen**]
+  * Leads to [**Private messaging**]
+  * Leads to [**User profile**]
+  * Leads to [**User on timeline**]
+  * Leads to [**Post/Create/Upload**]
+  * Leads to [**User on timeline**]
+  * Leads to [**Search & Explore**] 
+- [ ] [**Profile**]
+  * Leads to [**Edit profile picture**]
+  * Leads to [**Settings**]
+  * Leads to [**Privacy**]
+- [ ] [**Create**]
+  * Leads to [**Camera**]
+  * Leads to [**Photo Gallery**]
 
 
 ## Wireframes
