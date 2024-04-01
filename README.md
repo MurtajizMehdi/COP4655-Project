@@ -11,17 +11,17 @@
 
 ### Description
 
-[A media-sharing social media app focused around pets. From dogs and cats, to monkeys and lizards. All sorts of furry and non-furry friends are welcome.]
+A media-sharing social media app focused around pets. From dogs and cats, to monkeys and lizards. All sorts of furry and non-furry friends are welcome.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:** [e.g., Social, Entertainment, Education]
-- **Mobile:** [Is it a mobile application only?]
-- **Story:**  [What story does your app tell?]
-- **Market:** [Target audience for the app]
-- **Habit:** [Is it a daily use app or occasional use?]
-- **Scope:** [Is it a broad or narrow app in terms of features?]
+- **Category:** Social, Lifestyle, Pets & Animals
+- **Mobile:** Mobile only (currently)
+- **Story:** Shows the inside world of pet-owners and their friends. The good, bad, and ugly parts of the responsibility of owning a pet.
+- **Market:** Pet owners & animal lovers
+- **Habit:** Daily use
+- **Scope:** Narrow
 
 ## Product Spec
 
