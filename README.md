@@ -15,7 +15,6 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Social, Lifestyle, Pets & Animals
 - **Mobile:** Mobile only (currently)
 - **Story:** Shows the inside world of pet-owners and their friends. The good, bad, and ugly parts of the responsibility of owning a pet.
@@ -29,7 +28,9 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 
 **Required Must-have Stories**
 
-* [User can [specific action, e.g., register an account]]
+* [User can [create an account]]
+* [User can [sign into an account]]
+* [User can [dictate what their feed will look like by answering a few introductory questions when they first create an account]]
 * ...
 
 **Optional Nice-to-have Stories**
