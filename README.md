@@ -81,7 +81,8 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
+![PetPix-Wireframe](https://github.com/MurtajizMehdi/COP4655-Project/assets/90480945/058dd485-118a-4a72-8cd8-34ca0c92c574)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
