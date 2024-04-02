@@ -92,12 +92,13 @@ A media-sharing social media app focused around pets. From dogs and cats, to mon
 
 ### Models
 
-[Model Name, e.g., User]
+[User]
 | Property | Type   | Description                                  |
 |----------|--------|----------------------------------------------|
 | username | String | unique id for the user post (default field)   |
 | password | String | user's password for login authentication      |
-| ...      | ...    | ...                          
+| Name     | String | User's name that's displayed on their account |
+| email    | String | user's email where they'll get account info   |
 
 
 ### Networking
